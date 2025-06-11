@@ -2149,3 +2149,77 @@ BCLib - Nether BiomeSource (1a73ae7b)
 [18:55:31] [Server thread/INFO]: AAAAAAAAAAAA has made the advancement [Stone Age]
 [18:55:54] [Server thread/INFO]: AAAAAAAAAAAA has made the advancement [Getting an Upgrade]
 [18:57:04] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=231, y=-30, z=-265}
+[18:59:32] [Server thread/INFO]: [Handshake] Sending channel query
+[18:59:32] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[18:59:32] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[18:59:32] [Server thread/INFO]: Xander_Aqp[/100.123.177.55:52287] logged in with entity id 3041 at (-3.5, 81.0, 27.5)
+[18:59:32] [Server thread/INFO]: Sending server config values to client
+[18:59:32] [Server thread/INFO]: Syncing config to Xander_Aqp (02163ba2-52be-3ebb-8653-0482530027fe)
+[18:59:32] [Server thread/INFO]: Loading config from file...
+[18:59:32] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:59:32] [Server thread/INFO]: Xander_Aqp joined the game
+[18:59:32] [Server thread/INFO]: Loading Configs for Sortilege
+[18:59:32] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[18:59:32] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[18:59:32] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[18:59:32] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:59:32] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[18:59:33] [Server thread/INFO]: PLAYER_JOIN
+[18:59:33] [Server thread/INFO]: add_player wand
+[18:59:33] [Server thread/INFO]: config sent
+[18:59:33] [Server thread/INFO]: Xander_Aqp has made the advancement [Mobs of Mythology]
+[18:59:35] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[18:59:36] [Netty Epoll Server IO #0/INFO]: Channel update: Xander_Aqp -> default
+[18:59:36] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Xander_Aqp. Claiming: GRAVE / Robbing: INVENTORY
+[18:59:38] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Xander_Aqp accepted server config.
+[19:00:06] [Server thread/INFO]: [Handshake] Sending channel query
+[19:00:07] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[19:00:07] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[19:00:07] [Server thread/INFO]: sigan_viendo01[/100.91.7.42:60023] logged in with entity id 3136 at (5.5, 68.0, 33.5)
+[19:00:07] [Server thread/INFO]: Sending server config values to client
+[19:00:07] [Server thread/INFO]: Syncing config to sigan_viendo01 (828bc346-2d7c-3366-a96a-82d327676e65)
+[19:00:07] [Server thread/INFO]: Loading config from file...
+[19:00:07] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:00:07] [Server thread/INFO]: sigan_viendo01 joined the game
+[19:00:07] [Server thread/INFO]: Loading Configs for Sortilege
+[19:00:07] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[19:00:07] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[19:00:07] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[19:00:07] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:00:07] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[19:00:07] [Server thread/INFO]: PLAYER_JOIN
+[19:00:07] [Server thread/INFO]: add_player wand
+[19:00:07] [Server thread/INFO]: config sent
+[19:00:07] [Server thread/INFO]: sigan_viendo01 has made the advancement [Mobs of Mythology]
+[19:00:13] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[19:00:17] [Netty Epoll Server IO #4/INFO]: Channel update: sigan_viendo01 -> default
+[19:00:17] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player sigan_viendo01. Claiming: GRAVE / Robbing: INVENTORY
+[19:00:31] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[19:01:02] [Server thread/INFO]: Xander_Aqp lost connection: Disconnected
+[19:01:02] [Server thread/INFO]: Xander_Aqp left the game
+[19:01:02] [Server thread/INFO]: remove player wand
+[19:01:02] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[19:03:51] [Server thread/INFO]: sigan_viendo01 has made the advancement [Monster Hunter]
+[19:04:02] [Server thread/INFO]: AAAAAAAAAAAA was slain by Zombie
+[19:04:04] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of AAAAAAAAAAAA accepted server config.
+[19:04:21] [Server thread/INFO]: AAAAAAAAAAAA claimed a grave belonging to AAAAAAAAAAAA at 7, 65, -22, minecraft:overworld
+[19:04:29] [Server thread/INFO]: AAAAAAAAAAAA has made the advancement [Monster Hunter]
+[19:04:51] [Server thread/INFO]: AAAAAAAAAAAA has made the advancement [Forbidden Fruit]
+[19:05:00] [Server thread/INFO]: sigan_viendo01 was shot by Skeleton
+[19:05:02] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[19:05:04] [Server thread/INFO]: AAAAAAAAAAAA has made the advancement [Not Today, Thank You]
+[19:05:17] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 16, 66, -17, minecraft:overworld
+[19:05:49] [Server thread/INFO]: sigan_viendo01 was blown up by Creeper
+[19:05:51] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[19:06:04] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 11, 65, -24, minecraft:overworld
+[19:07:10] [Server thread/INFO]: AAAAAAAAAAAA was blown up by Swamp Creeper
+[19:07:10] [Server thread/INFO]: sigan_viendo01 was blown up by Swamp Creeper
+[19:07:10] [Netty Epoll Server IO #4/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19:07:10] [Netty Epoll Server IO #4/ERROR]: Combo count: 0 is dual wielding: false
+[19:07:10] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 0 air
+[19:07:10] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
+[19:07:10] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 0 | client: 0
+[19:07:12] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[19:07:12] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of AAAAAAAAAAAA accepted server config.
+[19:07:22] [Server thread/INFO]: AAAAAAAAAAAA claimed a grave belonging to AAAAAAAAAAAA at 4, 65, -17, minecraft:overworld
+[19:07:27] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 10, 65, -19, minecraft:overworld
