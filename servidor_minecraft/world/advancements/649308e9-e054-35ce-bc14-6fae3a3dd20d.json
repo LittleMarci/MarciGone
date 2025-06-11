@@ -156,6 +156,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-11 19:23:08 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_chair": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
@@ -336,6 +342,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-11 19:24:01 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/season_calendar": {
     "criteria": {
       "has_clock": "2025-06-11 18:49:29 +0000"
@@ -393,6 +405,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-11 19:21:55 +0000"
     },
     "done": true
   },
@@ -507,6 +525,12 @@
   "mcdw:recipes/bows/bow_void_bow": {
     "criteria": {
       "has_string": "2025-06-11 19:10:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
     },
     "done": true
   },
@@ -720,6 +744,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-06-11 19:18:17 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2025-06-11 18:49:29 +0000"
@@ -860,7 +890,9 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-06-11 19:14:21 +0000",
       "bayou": "2025-06-11 18:49:30 +0000",
+      "grassy_beach": "2025-06-11 19:19:41 +0000",
       "towering_cliffs": "2025-06-11 18:57:32 +0000",
       "temperate_grove": "2025-06-11 18:53:44 +0000"
     },
@@ -976,6 +1008,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-11 19:21:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_ladder": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
@@ -1002,7 +1040,9 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-06-11 19:14:21 +0000",
       "bayou": "2025-06-11 18:49:30 +0000",
+      "grassy_beach": "2025-06-11 19:19:41 +0000",
       "towering_cliffs": "2025-06-11 18:57:32 +0000",
       "temperate_grove": "2025-06-11 18:53:44 +0000"
     },
@@ -1044,6 +1084,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-06-11 19:20:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/distillation_tower/diesel": {
     "criteria": {
       "has_oil": "2025-06-11 18:49:29 +0000"
@@ -1083,6 +1129,12 @@
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-11 19:21:43 +0000"
     },
     "done": true
   },
@@ -1309,6 +1361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-11 19:24:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2025-06-11 18:49:29 +0000"
@@ -1477,6 +1535,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-06-11 19:24:01 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_call_of_the_void": {
     "criteria": {
       "has_string": "2025-06-11 19:10:24 +0000"
@@ -1507,6 +1571,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-06-11 19:20:03 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_galley": {
     "criteria": {
       "in_water": "2025-06-11 18:56:24 +0000"
@@ -1534,6 +1604,12 @@
   "betterend:recipes/decorations/tenanea_chair": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-11 19:21:55 +0000"
     },
     "done": true
   },
@@ -1579,6 +1655,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-11 19:19:57 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_auto": {
     "criteria": {
       "has_string": "2025-06-11 19:10:24 +0000"
@@ -1621,6 +1703,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-06-11 19:21:55 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
@@ -1636,6 +1724,12 @@
   "regions_unexplored:recipes/decorations/cypress_branch_from_cypress_log": {
     "criteria": {
       "has_log": "2025-06-11 18:53:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-06-11 19:24:01 +0000"
     },
     "done": true
   },
@@ -1666,6 +1760,12 @@
   "betternether:recipes/decorations/nether_sakura_chair": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-06-11 19:21:55 +0000"
     },
     "done": true
   },
@@ -1717,9 +1817,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-11 19:21:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-11 18:53:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-06-11 19:21:55 +0000"
     },
     "done": true
   },
@@ -1927,6 +2039,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-11 19:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-11 19:21:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
@@ -2023,6 +2147,14 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-06-11 19:19:19 +0000",
+      "minecraft:river": "2025-06-11 19:18:31 +0000",
+      "minecraft:ocean": "2025-06-11 19:23:31 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-06-11 18:53:33 +0000"
@@ -2038,6 +2170,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-11 18:55:31 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
     },
     "done": true
   },
@@ -2107,9 +2245,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-11 19:24:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_chair": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-06-11 19:24:01 +0000"
     },
     "done": true
   },
@@ -2140,6 +2290,12 @@
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-06-11 19:04:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-06-11 19:21:55 +0000"
     },
     "done": true
   },
@@ -2299,6 +2455,12 @@
     },
     "done": true
   },
+  "beachparty:main/welcome_to_the_beach": {
+    "criteria": {
+      "enter_beach": "2025-06-11 19:19:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2025-06-11 18:56:24 +0000"
@@ -2386,6 +2548,12 @@
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-11 19:21:55 +0000"
     },
     "done": true
   },
@@ -2533,6 +2701,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
@@ -2600,6 +2774,12 @@
     },
     "done": true
   },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_wrapped_stick": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
@@ -2621,6 +2801,12 @@
   "mcdw:recipes/longbows/bow_longbow": {
     "criteria": {
       "has_string": "2025-06-11 19:10:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
     },
     "done": true
   },
@@ -2738,6 +2924,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-06-11 19:17:26 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
     "criteria": {
       "has_item": "2025-06-11 18:55:31 +0000"
@@ -2753,6 +2945,12 @@
   "betterend:recipes/misc/copy_handle_attachment": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
     },
     "done": true
   },
@@ -2931,6 +3129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-11 19:21:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
       "has_nitrogen": "2025-06-11 18:49:29 +0000"
@@ -3003,6 +3207,12 @@
     },
     "done": true
   },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/willow_gate": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
@@ -3033,6 +3243,12 @@
     },
     "done": true
   },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_taburet": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
@@ -3042,6 +3258,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_fence": {
     "criteria": {
       "has_stick": "2025-06-11 18:54:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_meat": {
+    "criteria": {
+      "has_raw_meat": "2025-06-11 19:18:17 +0000"
     },
     "done": true
   },
@@ -3078,6 +3300,12 @@
   "oxidized:recipes/copper_kiln": {
     "criteria": {
       "has_copper_block": "2025-06-11 18:59:20 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_duck_egg": "2025-06-11 19:17:26 +0000"
     },
     "done": true
   },
@@ -3166,6 +3394,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-06-11 19:21:55 +0000"
+    },
+    "done": true
+  },
   "vinery:main/forbidden_fruit": {
     "criteria": {
       "apple": "2025-06-11 19:04:51 +0000"
@@ -3181,6 +3415,12 @@
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-06-11 18:53:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-06-11 19:24:01 +0000"
     },
     "done": true
   },
@@ -3259,6 +3499,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_bubble_burster": {
     "criteria": {
       "has_string": "2025-06-11 19:10:24 +0000"
@@ -3312,6 +3564,12 @@
       "has_iron": "2025-06-11 18:49:29 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-06-11 19:19:57 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/centrifuge/lava_cell": {
     "criteria": {
@@ -3570,6 +3828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-11 19:24:01 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_phantom_bow": {
     "criteria": {
       "has_emerald": "2025-06-11 18:51:41 +0000"
@@ -3685,6 +3949,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-11 19:21:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/titanium_ingot": {
     "criteria": {
       "has_titanium_dust": "2025-06-11 18:49:29 +0000"
@@ -3755,6 +4025,18 @@
   "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
     "criteria": {
       "has_item": "2025-06-11 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-11 19:21:55 +0000"
     },
     "done": true
   },
@@ -3905,6 +4187,12 @@
   "mcda:recipes/base_armors/grim_armor_boots": {
     "criteria": {
       "has_bone": "2025-06-11 19:05:28 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-06-11 19:20:03 +0000"
     },
     "done": true
   },
