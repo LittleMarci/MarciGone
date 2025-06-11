@@ -3997,3 +3997,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [17:05:50] [Server thread/INFO]: AlonsoVanDeKap left the game
 [17:05:50] [Server thread/INFO]: remove player wand
 [17:05:50] [Server thread/INFO]: Updating all forceload tickets for 64c63124-ce40-32e5-ac7e-34fda48b4ffc
+[17:10:32] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
