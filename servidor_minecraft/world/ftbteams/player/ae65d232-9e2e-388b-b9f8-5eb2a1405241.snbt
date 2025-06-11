@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Allend"
 		"ftbteams:description": ""
-		"ftbteams:color": "#EEFF59"
+		"ftbteams:color": "#FFCD59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
