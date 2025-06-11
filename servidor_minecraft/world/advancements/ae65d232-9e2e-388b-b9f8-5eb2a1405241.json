@@ -2385,15 +2385,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-06-11 16:45:48 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/willow_shrub": {
     "criteria": {
       "has_willow_sapling": "2025-06-11 16:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-11 16:45:48 +0000"
     },
     "done": true
   },
@@ -2427,12 +2427,6 @@
     },
     "done": true
   },
-  "twigs:recipes/stick_from_twig": {
-    "criteria": {
-      "has_item": "2025-06-11 16:45:49 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
     "criteria": {
       "has_log": "2025-06-11 16:45:48 +0000"
@@ -2442,6 +2436,24 @@
   "regions_unexplored:recipes/building_blocks/willow_wood": {
     "criteria": {
       "has_log": "2025-06-11 16:45:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2025-06-11 16:45:49 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-06-11 16:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-06-11 16:50:06 +0000"
     },
     "done": true
   },
