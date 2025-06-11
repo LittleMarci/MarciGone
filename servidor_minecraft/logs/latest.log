@@ -2950,3 +2950,157 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[16:17:56] [Server thread/INFO]: [Handshake] Sending channel query
+[16:17:56] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[16:17:56] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[16:17:57] [Server thread/INFO]: Allend[/127.117.105.103:52223] logged in with entity id 1904 at (4.5, 86.0, 24.5)
+[16:17:57] [Server thread/INFO]: Sending server config values to client
+[16:17:57] [Server thread/INFO]: Syncing config to Allend (ae65d232-9e2e-388b-b9f8-5eb2a1405241)
+[16:17:57] [Server thread/INFO]: Loading config from file...
+[16:17:57] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:17:57] [Server thread/INFO]: Allend joined the game
+[16:17:57] [Server thread/INFO]: Loading Configs for Sortilege
+[16:17:57] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[16:17:57] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[16:17:57] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[16:17:57] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:17:58] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:17:58] [Server thread/INFO]: PLAYER_JOIN
+[16:17:58] [Server thread/INFO]: add_player wand
+[16:17:58] [Server thread/INFO]: config sent
+[16:17:59] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[16:17:59] [Netty Epoll Server IO #1/INFO]: Channel update: Allend -> default
+[16:17:59] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Allend. Claiming: GRAVE / Robbing: INVENTORY
+[16:18:08] [Server thread/INFO]: Made Allend a server operator
+[16:18:36] [Server thread/INFO]: Allend was killed
+[16:18:36] [Server thread/INFO]: Killed Allend
+[16:18:55] [Server thread/INFO]: Allend lost connection: Timed out
+[16:18:55] [Server thread/INFO]: Allend left the game
+[16:18:55] [Server thread/INFO]: remove player wand
+[16:18:55] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:19:01] [Server thread/INFO]: [Handshake] Sending channel query
+[16:19:01] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[16:19:01] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[16:19:02] [Server thread/INFO]: Allend[/127.117.105.103:50501] logged in with entity id 2026 at (4.5, 86.0, 24.5)
+[16:19:02] [Server thread/INFO]: Sending server config values to client
+[16:19:02] [Server thread/INFO]: Syncing config to Allend (ae65d232-9e2e-388b-b9f8-5eb2a1405241)
+[16:19:02] [Server thread/INFO]: Loading config from file...
+[16:19:02] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:19:02] [Server thread/INFO]: Allend joined the game
+[16:19:02] [Server thread/INFO]: Loading Configs for Sortilege
+[16:19:02] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[16:19:02] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[16:19:02] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[16:19:02] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:19:03] [Server thread/INFO]: PLAYER_JOIN
+[16:19:03] [Server thread/INFO]: add_player wand
+[16:19:03] [Server thread/INFO]: config sent
+[16:19:03] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:19:04] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[16:19:04] [Netty Epoll Server IO #2/INFO]: Channel update: Allend -> default
+[16:19:04] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Allend. Claiming: GRAVE / Robbing: INVENTORY
+[16:20:00] [Server thread/INFO]: Allend lost connection: Timed out
+[16:20:00] [Server thread/INFO]: Allend left the game
+[16:20:00] [Server thread/INFO]: remove player wand
+[16:20:00] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:20:04] [Server thread/INFO]: [Handshake] Sending channel query
+[16:20:04] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[16:20:04] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[16:20:05] [Server thread/INFO]: Allend[/127.117.105.103:36659] logged in with entity id 2030 at (4.5, 86.0, 24.5)
+[16:20:05] [Server thread/INFO]: Sending server config values to client
+[16:20:05] [Server thread/INFO]: Syncing config to Allend (ae65d232-9e2e-388b-b9f8-5eb2a1405241)
+[16:20:05] [Server thread/INFO]: Loading config from file...
+[16:20:05] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:20:05] [Server thread/INFO]: Allend joined the game
+[16:20:05] [Server thread/INFO]: Loading Configs for Sortilege
+[16:20:05] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[16:20:05] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[16:20:05] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[16:20:05] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:20:05] [Server thread/INFO]: PLAYER_JOIN
+[16:20:05] [Server thread/INFO]: add_player wand
+[16:20:05] [Server thread/INFO]: config sent
+[16:20:05] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:20:07] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[16:20:07] [Netty Epoll Server IO #3/INFO]: Channel update: Allend -> default
+[16:20:07] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Allend. Claiming: GRAVE / Robbing: INVENTORY
+[16:21:03] [Server thread/INFO]: Allend lost connection: Timed out
+[16:21:03] [Server thread/INFO]: Allend left the game
+[16:21:03] [Server thread/INFO]: remove player wand
+[16:21:03] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:21:06] [Server thread/INFO]: [Handshake] Sending channel query
+[16:21:06] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[16:21:06] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[16:21:07] [Server thread/INFO]: Allend[/127.117.105.103:51719] logged in with entity id 2032 at (4.5, 86.0, 24.5)
+[16:21:07] [Server thread/INFO]: Sending server config values to client
+[16:21:07] [Server thread/INFO]: Syncing config to Allend (ae65d232-9e2e-388b-b9f8-5eb2a1405241)
+[16:21:07] [Server thread/INFO]: Loading config from file...
+[16:21:07] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:21:07] [Server thread/INFO]: Allend joined the game
+[16:21:07] [Server thread/INFO]: Loading Configs for Sortilege
+[16:21:07] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[16:21:07] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[16:21:07] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[16:21:07] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:21:07] [Server thread/INFO]: PLAYER_JOIN
+[16:21:07] [Server thread/INFO]: add_player wand
+[16:21:07] [Server thread/INFO]: config sent
+[16:21:07] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:21:09] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[16:21:09] [Netty Epoll Server IO #4/INFO]: Channel update: Allend -> default
+[16:21:09] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Allend. Claiming: GRAVE / Robbing: INVENTORY
+[16:22:05] [Server thread/INFO]: Allend lost connection: Timed out
+[16:22:05] [Server thread/INFO]: Allend left the game
+[16:22:05] [Server thread/INFO]: remove player wand
+[16:22:05] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:22:08] [Server thread/INFO]: [Handshake] Sending channel query
+[16:22:08] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[16:22:08] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[16:22:09] [Server thread/INFO]: Allend[/127.117.105.103:50739] logged in with entity id 2041 at (4.5, 86.0, 24.5)
+[16:22:09] [Server thread/INFO]: Sending server config values to client
+[16:22:09] [Server thread/INFO]: Syncing config to Allend (ae65d232-9e2e-388b-b9f8-5eb2a1405241)
+[16:22:09] [Server thread/INFO]: Loading config from file...
+[16:22:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:22:09] [Server thread/INFO]: Allend joined the game
+[16:22:09] [Server thread/INFO]: Loading Configs for Sortilege
+[16:22:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[16:22:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[16:22:09] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[16:22:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:22:09] [Server thread/INFO]: PLAYER_JOIN
+[16:22:09] [Server thread/INFO]: add_player wand
+[16:22:09] [Server thread/INFO]: config sent
+[16:22:09] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:22:11] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[16:22:11] [Netty Epoll Server IO #5/INFO]: Channel update: Allend -> default
+[16:22:11] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Allend. Claiming: GRAVE / Robbing: INVENTORY
+[16:23:00] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[16:23:07] [Server thread/INFO]: Allend lost connection: Timed out
+[16:23:07] [Server thread/INFO]: Allend left the game
+[16:23:07] [Server thread/INFO]: remove player wand
+[16:23:07] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:23:54] [Server thread/INFO]: [Handshake] Sending channel query
+[16:23:54] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[16:23:54] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[16:23:55] [Server thread/INFO]: Allend[/127.117.105.103:48623] logged in with entity id 2047 at (4.5, 86.0, 24.5)
+[16:23:55] [Server thread/INFO]: Sending server config values to client
+[16:23:55] [Server thread/INFO]: Syncing config to Allend (ae65d232-9e2e-388b-b9f8-5eb2a1405241)
+[16:23:55] [Server thread/INFO]: Loading config from file...
+[16:23:55] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:23:55] [Server thread/INFO]: Allend joined the game
+[16:23:55] [Server thread/INFO]: Loading Configs for Sortilege
+[16:23:55] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[16:23:55] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[16:23:55] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[16:23:55] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:23:55] [Server thread/INFO]: PLAYER_JOIN
+[16:23:55] [Server thread/INFO]: add_player wand
+[16:23:55] [Server thread/INFO]: config sent
+[16:23:55] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[16:24:00] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[16:24:00] [Netty Epoll Server IO #6/INFO]: Channel update: Allend -> default
+[16:24:00] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Allend. Claiming: GRAVE / Robbing: INVENTORY
+[16:24:53] [Server thread/INFO]: Allend lost connection: Timed out
+[16:24:53] [Server thread/INFO]: Allend left the game
+[16:24:53] [Server thread/INFO]: remove player wand
+[16:24:53] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
