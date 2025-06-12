@@ -2276,3 +2276,14 @@ java.util.ConcurrentModificationException: null
 [19:37:18] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
 [19:37:23] [Server thread/INFO]: [Allend: Teleported sigan_viendo01 to Allend]
 [19:37:32] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 14, 63, 659, minecraft:overworld
+[19:43:27] [Server thread/INFO]: [Allend: Teleported Allend to 198.500000, 66.500000, 9.500000]
+[19:43:32] [Server thread/INFO]: [Allend: Teleported Allend to sigan_viendo01]
+[19:43:36] [Server thread/INFO]: [Allend: Teleported Allend to sigan_viendo01]
+[19:48:27] [Server thread/INFO]: Villager class_1646['Giuseppe'/16366, l='ServerLevel[world]', x=106.59, y=225.00, z=1108.13] died, message: 'Giuseppe hit the ground too hard'
+[19:48:27] [Server thread/INFO]: Named entity class_1646['Giuseppe'/16366, l='ServerLevel[world]', x=106.59, y=225.00, z=1108.13] died: Giuseppe fell from a high place
+[19:48:33] [Server thread/INFO]: Villager class_1646['Amado'/16776, l='ServerLevel[world]', x=8.56, y=247.73, z=1128.55] died, message: 'Amado tried to swim in lava'
+[19:48:33] [Server thread/INFO]: Named entity class_1646['Amado'/16776, l='ServerLevel[world]', x=8.56, y=247.73, z=1128.55] died: Amado tried to swim in lava
+[19:48:37] [Server thread/INFO]: Villager class_1646['Cole'/16975, l='ServerLevel[world]', x=34.02, y=247.77, z=1162.70] died, message: 'Cole tried to swim in lava'
+[19:48:37] [Server thread/INFO]: Named entity class_1646['Cole'/16975, l='ServerLevel[world]', x=34.02, y=247.77, z=1162.70] died: Cole tried to swim in lava
+[19:48:38] [Worker-Main-29/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[19:48:38] [Worker-Main-29/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.

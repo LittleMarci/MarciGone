@@ -6579,9 +6579,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-12 19:44:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
     },
     "done": true
   },
@@ -6627,9 +6639,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/turtle_armor_helmet": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
     },
     "done": true
   },
@@ -6657,15 +6687,51 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/dragons_blood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_hunters_promise": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-06-12 19:35:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
     },
     "done": true
   },
@@ -6723,6 +6789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/evocation_robe_helmet": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
@@ -6735,9 +6807,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/white_bed_from_wool": {
     "criteria": {
       "has_white_wool": "2025-06-12 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
     },
     "done": true
   },
@@ -6753,6 +6837,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_heartstealer": {
     "criteria": {
       "has_redstone": "2025-06-12 19:33:41 +0000"
@@ -6762,6 +6852,12 @@
   "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
     },
     "done": true
   },
@@ -6783,15 +6879,39 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-12 19:25:25 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-06-12 19:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-12 19:36:46 +0000"
     },
     "done": true
   },
@@ -6804,6 +6924,18 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
     },
     "done": true
   },
@@ -6825,9 +6957,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/crystal_ball": {
     "criteria": {
       "has_item": "2025-06-12 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/juniper_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
     },
     "done": true
   },
@@ -6843,6 +6999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/shulker_armor_chestplate": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
@@ -6855,9 +7017,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_dancers_sword": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
     },
     "done": true
   },
@@ -6885,6 +7077,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-06-12 19:36:46 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_backstabber": {
     "criteria": {
       "has_amethyst_shard": "2025-06-12 19:25:25 +0000"
@@ -6894,6 +7092,12 @@
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2025-06-12 19:35:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
     },
     "done": true
   },
@@ -6909,9 +7113,51 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
     },
     "done": true
   },
@@ -6924,6 +7170,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
     },
     "done": true
   },
@@ -6945,9 +7197,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-06-12 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-12 19:36:46 +0000"
     },
     "done": true
   },
@@ -6993,9 +7257,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/reinforced_mail_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2025-06-12 19:27:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/coal_plate_from_block": {
+    "criteria": {
+      "has_coal_block": "2025-06-12 19:44:38 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
     },
     "done": true
   },
@@ -7014,6 +7302,12 @@
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-06-12 19:33:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
     },
     "done": true
   },
@@ -7041,6 +7335,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2025-06-12 19:35:46 +0000"
@@ -7053,6 +7353,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-12 19:33:41 +0000"
@@ -7062,6 +7380,24 @@
   "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-06-12 19:27:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-12 19:36:46 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/elder_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
     },
     "done": true
   },
@@ -7095,6 +7431,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
     "criteria": {
       "has_amethyst_shard": "2025-06-12 19:25:25 +0000"
@@ -7113,6 +7455,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-12 19:33:41 +0000"
@@ -7125,6 +7479,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-06-12 19:28:02 +0000"
@@ -7134,6 +7494,18 @@
   "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-06-12 19:27:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/palm/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
     },
     "done": true
   },
@@ -7152,6 +7524,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
     },
     "done": true
   },
@@ -7179,6 +7557,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/sakura/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
@@ -7194,6 +7578,24 @@
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-06-12 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/plenty_pottery_sherd": {
+    "criteria": {
+      "has_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-06-12 19:41:55 +0000"
     },
     "done": true
   },
@@ -7221,6 +7623,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/scale_mail_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-12 19:36:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-06-12 19:33:41 +0000"
@@ -7233,9 +7641,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-06-12 19:27:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/gray_dye_from_dead_horn_coral_block": {
+    "criteria": {
+      "has_dead_horn_coral_block": "2025-06-12 19:44:44 +0000"
     },
     "done": true
   },
