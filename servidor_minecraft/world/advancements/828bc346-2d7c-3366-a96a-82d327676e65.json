@@ -2841,6 +2841,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-12 19:26:12 +0000",
       "minecraft:zombie": "2025-06-11 19:03:51 +0000"
     },
     "done": false
@@ -3671,7 +3672,9 @@
     "criteria": {
       "minecraft:beach": "2025-06-11 19:17:19 +0000",
       "minecraft:river": "2025-06-11 19:18:26 +0000",
-      "minecraft:ocean": "2025-06-11 19:20:28 +0000"
+      "minecraft:swamp": "2025-06-12 19:27:42 +0000",
+      "minecraft:ocean": "2025-06-11 19:20:28 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-12 19:28:17 +0000"
     },
     "done": false
   },
@@ -3863,6 +3866,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-06-12 19:30:00 +0000",
       "opened_chest": "2025-06-11 19:20:29 +0000"
     },
     "done": false
@@ -4434,6 +4438,930 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-11 22:09:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/guards_armor_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-12 19:30:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_boots": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_masters_bow": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_great_hammer": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-06-12 19:30:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-12 19:34:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-06-12 19:26:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/turtle_armor_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shortbows/bow_mechanical_shortbow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-12 19:30:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-12 19:30:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-06-12 19:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_lost_souls": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-12 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_leggings": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_nocturnal_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shortbows/bow_purple_storm": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_void_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-12 19:34:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_slicer": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-06-12 19:34:41 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_pink_scoundrel": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_trickbow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-12 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-06-12 19:34:38 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_azure_seeker": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_winters_touch": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-12 19:26:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-06-12 19:30:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-12 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_dual": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/guards_armor_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-12 19:30:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_rapid": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-12 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_green_menace": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-06-12 19:34:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-12 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_scatter": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_burst": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-12 19:30:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_exploding": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_feral_soul": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_haunted_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_call_of_the_void": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_heavy": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_doom_crossbow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_auto": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/spelunker_armor_boots": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_guardian_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-12 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunting_bow": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-06-12 19:30:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-12 19:30:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-06-12 19:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-06-12 19:30:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-06-12 19:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/guards_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-06-12 19:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_slayer": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-06-12 19:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-12 19:34:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shortbows/bow_shortbow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-12 19:30:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-06-12 19:34:41 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_web_bow": {
+    "criteria": {
+      "has_cobweb": "2025-06-12 19:33:41 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_power_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2025-06-12 19:29:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-06-12 19:30:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_butterfly": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-12 19:34:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_longbow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_boneclub": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-12 19:34:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_maulers": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/spelunker_armor_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/whips/whip_whip": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-12 19:30:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+    "criteria": {
+      "has_wooden_sword": "2025-06-12 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_imploding": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-06-12 19:34:38 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_twin_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-12 19:30:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_wind_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-12 19:34:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-06-12 19:29:40 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-12 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-12 19:30:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-06-12 19:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-06-12 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2025-06-12 19:34:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-12 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-12 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/whips/whip_vine_whip": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/vanguard_armor_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_soul_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-12 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-06-12 19:34:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-06-12 19:34:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2025-06-12 19:34:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-06-12 19:34:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_red_snake": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-12 19:30:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-12 19:30:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_snow_bow": {
+    "criteria": {
+      "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-12 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-12 19:34:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 19:30:02 +0000"
     },
     "done": true
   },

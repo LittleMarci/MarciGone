@@ -2151,3 +2151,128 @@ BCLib - Nether BiomeSource (7b055be8)
 [19:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20440ms or 408 ticks behind
 [19:17:39] [Server thread/INFO]: Allend has made the advancement [Invitation to the Tea Party]
 [19:18:12] [Server thread/INFO]: Allend has made the advancement [Barrel Booty]
+[19:19:40] [Server thread/INFO]: Allend lost connection: Disconnected
+[19:19:40] [Server thread/INFO]: Allend left the game
+[19:19:40] [Server thread/INFO]: remove player wand
+[19:19:40] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[19:23:13] [Server thread/INFO]: [Handshake] Sending channel query
+[19:23:13] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[19:23:13] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[19:23:13] [Server thread/INFO]: Allend[/100.119.51.63:4661] logged in with entity id 5335 at (21.28460122605013, 64.0, 668.6999999880791)
+[19:23:13] [Server thread/INFO]: Sending server config values to client
+[19:23:13] [Server thread/INFO]: Syncing config to Allend (ae65d232-9e2e-388b-b9f8-5eb2a1405241)
+[19:23:13] [Server thread/INFO]: Loading config from file...
+[19:23:14] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:23:14] [Server thread/INFO]: Allend joined the game
+[19:23:14] [Server thread/INFO]: Loading Configs for Sortilege
+[19:23:14] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[19:23:14] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[19:23:14] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[19:23:14] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:23:14] [Server thread/INFO]: PLAYER_JOIN
+[19:23:14] [Server thread/INFO]: add_player wand
+[19:23:14] [Server thread/INFO]: config sent
+[19:23:14] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[19:23:17] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[19:23:17] [Netty Epoll Server IO #5/INFO]: Channel update: Allend -> default
+[19:23:17] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Allend. Claiming: GRAVE / Robbing: INVENTORY
+[19:23:27] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[19:23:58] [Server thread/INFO]: [Handshake] Sending channel query
+[19:23:58] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[19:23:58] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[19:23:58] [Server thread/INFO]: sigan_viendo01[/100.91.7.42:64291] logged in with entity id 5775 at (-182.47876452079566, 68.0, -255.69821928634462)
+[19:23:58] [Server thread/INFO]: Sending server config values to client
+[19:23:58] [Server thread/INFO]: Syncing config to sigan_viendo01 (828bc346-2d7c-3366-a96a-82d327676e65)
+[19:23:58] [Server thread/INFO]: Loading config from file...
+[19:23:58] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:23:58] [Server thread/INFO]: sigan_viendo01 joined the game
+[19:23:58] [Server thread/INFO]: Loading Configs for Sortilege
+[19:23:58] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[19:23:58] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[19:23:58] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[19:23:58] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:23:58] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[19:23:58] [Server thread/INFO]: PLAYER_JOIN
+[19:23:58] [Server thread/INFO]: add_player wand
+[19:23:58] [Server thread/INFO]: config sent
+[19:24:02] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[19:24:05] [Netty Epoll Server IO #7/INFO]: Channel update: sigan_viendo01 -> default
+[19:24:05] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player sigan_viendo01. Claiming: GRAVE / Robbing: INVENTORY
+[19:24:17] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[19:25:05] [Server thread/INFO]: <Allend> xaero-waypoint:aea:A:21:68:660:2:false:0:Internal-overworld-waypoints
+[19:25:08] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at -211, 65, -194, minecraft:overworld
+[19:26:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[19:26:29] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-330, y=1, z=84}
+[19:26:29] [Server thread/INFO]: [Allend: Added sigan_viendo01 to team [EquipoEspecial]]
+[19:26:37] [Server thread/INFO]: [Allend: Disabled friendly fire for team [EquipoEspecial]]
+[19:26:48] [Worker-Main-36/WARN]: Tried to access a block entity before it was created. class_2338{x=-252, y=10, z=191}
+[19:27:50] [Worker-Main-28/WARN]: Tried to access a block entity before it was created. class_2338{x=-191, y=-2, z=471}
+[19:28:10] [Netty Epoll Server IO #5/ERROR]: Error receiving packet 100
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?]
+	at net.minecraft.text.Text$Serializer.serialize(Text.java:320) ~[server-intermediary.jar:?]
+	at net.minecraft.text.Text$Serializer.serialize(Text.java:152) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.write(TreeTypeAdapter.java:88) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.toJson(Gson.java:825) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.toJson(Gson.java:795) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.toJson(Gson.java:742) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.toJson(Gson.java:719) ~[gson-2.10.jar:?]
+	at net.minecraft.text.Text$Serializer.toJson(Text.java:388) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketByteBuf.writeText(PacketByteBuf.java:514) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.s2c.play.GameMessageS2CPacket.write(GameMessageS2CPacket.java:14) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.ClientConnection.sendInternal(ClientConnection.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.network.ClientConnection.method_10761(ClientConnection.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[19:28:10] [Netty Epoll Server IO #5/WARN]: Packet:class_7439 caused an error above, printing name & data
+[19:28:10] [Netty Epoll Server IO #5/WARN]: Packet data:
+{
+  "comp_763": "literal{}[siblings=[literal{[Allend's Party] }[style={color=gold,hoverEvent=HoverEvent{action=<action show_text>, value='literal{Allend's Party}'}}], translation{key='gui.xaero_parties_join_success_info', args=[literal{sigan_viendo01}[style={color=dark_green}]]}]]",
+  "comp_906": false
+}
+[19:28:10] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[19:29:09] [Server thread/INFO]: Allend has made the advancement [Source of Evil]
+[19:29:40] [Server thread/INFO]: sigan_viendo01 has made the advancement [This Must be a Sign!]
+[19:29:47] [Server thread/INFO]: sigan_viendo01 has made the advancement [Invitation to the Tea Party]
+[19:29:56] [Server thread/INFO]: Allend was slain by Acolyte
+[19:29:58] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[19:30:00] [Server thread/INFO]: sigan_viendo01 has made the advancement [Barrel Booty]
+[19:30:24] [Server thread/INFO]: sigan_viendo01 has made the advancement [Spooky Scary Skeleton]
+[19:32:26] [Server thread/INFO]: sigan_viendo01 has made the advancement [Source of Evil]
+[19:32:56] [Server thread/WARN]: Allend moved wrongly!
+[19:33:07] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 20, 72, 666, minecraft:overworld
+[19:33:17] [Server thread/INFO]: sigan_viendo01 was slain by Acolyte
+[19:33:19] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[19:33:31] [Server thread/INFO]: [Allend: Teleported sigan_viendo01 to Allend]
+[19:33:34] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 22, 73, 660, minecraft:overworld
+[19:33:52] [Server thread/INFO]: sigan_viendo01 was slain by Acolyte
+[19:33:54] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[19:33:54] [Server thread/INFO]: [Allend: Teleported sigan_viendo01 to Allend]
+[19:34:01] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 21, 73, 663, minecraft:overworld
+[19:34:37] [Server thread/INFO]: sigan_viendo01 has made the advancement [Suit Up]
+[19:35:32] [Server thread/INFO]: Allend has made the advancement [Thunder Time]
+[19:37:17] [Server thread/INFO]: sigan_viendo01 was slain by Kobold Warrior
+[19:37:18] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[19:37:23] [Server thread/INFO]: [Allend: Teleported sigan_viendo01 to Allend]
+[19:37:32] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 14, 63, 659, minecraft:overworld
