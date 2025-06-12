@@ -2291,3 +2291,52 @@ java.util.ConcurrentModificationException: null
 [19:58:29] [Server thread/INFO]: Allend has made the advancement [Penteconter]
 [19:59:50] [Server thread/INFO]: sigan_viendo01 has made the advancement [Close Quarters]
 [20:07:58] [Server thread/INFO]: Allend has made the advancement [Gravedigger]
+[20:10:04] [Server thread/INFO]: Allend was shot by Skeleton
+[20:10:04] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_12.06.2025-20.10.04.dat
+[20:10:06] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[20:10:20] [Server thread/INFO]: [Allend: Teleported Allend to sigan_viendo01]
+[20:10:35] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 217, 65, 1407, minecraft:overworld
+[20:10:35] [Server thread/INFO]: sigan_viendo01 was slain by Spider
+[20:10:35] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.standard_12.06.2025-20.10.35.dat
+[20:10:37] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[20:10:52] [Server thread/INFO]: [Allend: Teleported sigan_viendo01 to Allend]
+[20:11:21] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 189, 64, 1427, minecraft:overworld
+[20:12:27] [Server thread/INFO]: Named entity class_3989['Exie'/27052, l='ServerLevel[world]', x=210.74, y=64.00, z=1373.61] died: Exie was slain by sigan_viendo01
+[20:12:27] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[20:13:29] [Server thread/INFO]: sigan_viendo01 was killed by magic whilst trying to escape Mutant Skeleton
+[20:13:29] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.standard_12.06.2025-20.13.29.dat
+[20:13:31] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[20:13:33] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 197, 64, 1372, minecraft:overworld
+[20:13:35] [Server thread/INFO]: Allend has made the advancement [Not Today, Thank You]
+[20:13:36] [Server thread/INFO]: Villager class_1646['Berenice'/17731, l='ServerLevel[world]', x=128.70, y=61.46, z=1328.70] died, message: 'Berenice was slain by Drowned'
+[20:13:36] [Server thread/INFO]: Named entity class_1646['Berenice'/17731, l='ServerLevel[world]', x=128.70, y=61.46, z=1328.70] died: Berenice was slain by Drowned
+[20:13:48] [Server thread/INFO]: Allend was shot by Mutant Skeleton
+[20:13:48] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_12.06.2025-20.13.48.dat
+[20:13:48] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20:13:48] [Netty Epoll Server IO #5/ERROR]: Combo count: 4 is dual wielding: false
+[20:13:48] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[20:13:48] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[20:13:48] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 1 | client: 1
+[20:13:50] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[20:13:50] [Server thread/INFO]: sigan_viendo01 was shot by Mutant Skeleton
+[20:13:50] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.standard_12.06.2025-20.13.50.dat
+[20:13:51] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 198, 66, 1377, minecraft:overworld
+[20:13:52] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[20:13:54] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 199, 64, 1372, minecraft:overworld
+[20:13:58] [Server thread/INFO]: Allend was slain by Mutant Skeleton
+[20:13:58] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_12.06.2025-20.13.58.dat
+[20:14:01] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[20:14:03] [Server thread/INFO]: sigan_viendo01 was shot by Mutant Skeleton
+[20:14:03] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.standard_12.06.2025-20.14.03.dat
+[20:14:03] [Netty Epoll Server IO #7/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20:14:03] [Netty Epoll Server IO #7/ERROR]: Combo count: 7 is dual wielding: false
+[20:14:03] [Netty Epoll Server IO #7/ERROR]: Main-hand stack: 0 air
+[20:14:03] [Netty Epoll Server IO #7/ERROR]: Off-hand stack: 0 air
+[20:14:03] [Netty Epoll Server IO #7/ERROR]: Selected slot server: 0 | client: 0
+[20:14:04] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 197, 64, 1379, minecraft:overworld
+[20:14:06] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[20:14:08] [Server thread/INFO]: Allend was blown up by Creeper
+[20:14:08] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_12.06.2025-20.14.08.dat
+[20:14:11] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 196, 64, 1384, minecraft:overworld
+[20:14:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[20:14:19] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 192, 65, 1359, minecraft:overworld

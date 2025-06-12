@@ -2842,6 +2842,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-12 19:26:12 +0000",
+      "minecraft:spider": "2025-06-12 20:11:24 +0000",
       "minecraft:zombie": "2025-06-11 19:03:51 +0000"
     },
     "done": false
@@ -4724,6 +4725,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/green_coffin": {
+    "criteria": {
+      "has_item": "2025-06-12 20:10:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2025-06-12 19:45:03 +0000"
@@ -4763,6 +4770,12 @@
   "mcdw:recipes/bows/bow_winters_touch": {
     "criteria": {
       "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-12 20:11:24 +0000"
     },
     "done": true
   },
@@ -5660,6 +5673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-12 20:11:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_soul": {
     "criteria": {
       "has_string": "2025-06-12 19:35:26 +0000"
@@ -5693,6 +5712,12 @@
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
     "criteria": {
       "has_wooden_sword": "2025-06-12 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 20:10:42 +0000"
     },
     "done": true
   },
@@ -5969,6 +5994,12 @@
   "mcdw:recipes/whips/whip_vine_whip": {
     "criteria": {
       "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-12 20:11:24 +0000"
     },
     "done": true
   },

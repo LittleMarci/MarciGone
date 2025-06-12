@@ -2730,6 +2730,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-12 20:07:32 +0000",
+      "minecraft:spider": "2025-06-12 20:09:34 +0000",
       "minecraft:witch": "2025-06-12 19:14:21 +0000",
       "minecraft:husk": "2025-06-12 04:06:09 +0000",
       "minecraft:enderman": "2025-06-12 04:00:13 +0000",
@@ -6575,6 +6577,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_writable_book": {
     "criteria": {
       "has_writable_book": "2025-06-12 20:03:21 +0000"
@@ -6647,6 +6655,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_white_sheet": "2025-06-12 19:28:02 +0000"
@@ -6710,6 +6724,12 @@
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-06-12 20:07:32 +0000"
     },
     "done": true
   },
@@ -6863,6 +6883,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/green_coffin": {
+    "criteria": {
+      "has_item": "2025-06-12 20:10:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-06-12 19:35:46 +0000"
@@ -6932,6 +6958,12 @@
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-12 20:07:32 +0000"
     },
     "done": true
   },
@@ -7121,6 +7153,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
     "criteria": {
       "has_log": "2025-06-12 19:49:30 +0000"
@@ -7241,6 +7279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aqua_affinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
@@ -7274,6 +7318,12 @@
   "bewitchment:recipes/transportation/juniper_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-12 20:08:10 +0000"
     },
     "done": true
   },
@@ -7394,6 +7444,12 @@
   "betternether:recipes/building_blocks/willow_bookshelf": {
     "criteria": {
       "has_book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-06-12 20:13:07 +0000"
     },
     "done": true
   },
@@ -7541,9 +7597,21 @@
     },
     "done": true
   },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-06-12 20:07:22 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
       "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-12 20:13:35 +0000"
     },
     "done": true
   },
@@ -7580,6 +7648,12 @@
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
     },
     "done": true
   },
@@ -7634,6 +7708,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
     },
     "done": true
   },
@@ -7703,6 +7783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
     "criteria": {
       "has_spruce_slab": "2025-06-12 19:35:46 +0000"
@@ -7757,6 +7843,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-06-12 20:13:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/redstone": {
     "criteria": {
       "has_redstone": "2025-06-12 19:33:41 +0000"
@@ -7790,6 +7882,12 @@
   "betterend:recipes/building_blocks/tenanea_bookshelf": {
     "criteria": {
       "has_book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-12 20:07:58 +0000"
     },
     "done": true
   },
@@ -7832,6 +7930,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
     },
     "done": true
   },
@@ -7907,6 +8011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:51 +0000"
@@ -7916,6 +8026,18 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-06-12 19:33:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
     },
     "done": true
   },
@@ -7943,6 +8065,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bed": {
+    "criteria": {
+      "has_bed": "2025-06-12 20:10:09 +0000"
+    },
+    "done": true
+  },
   "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
     "criteria": {
       "has_amethyst_shard": "2025-06-12 19:25:25 +0000"
@@ -7958,6 +8086,12 @@
   "techreborn:recipes/compressor/prismarine_shard": {
     "criteria": {
       "has_prismarine_crystals": "2025-06-12 19:47:39 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
     },
     "done": true
   },
@@ -8051,6 +8185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
@@ -8117,6 +8257,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:51 +0000"
@@ -8147,6 +8293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 19:59:16 +0000"
@@ -8162,6 +8314,12 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-06-12 19:55:37 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
     },
     "done": true
   },
@@ -8213,6 +8371,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-06-12 19:27:09 +0000"
@@ -8243,6 +8407,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_rail": {
     "criteria": {
       "has_copper_block": "2025-06-12 19:33:41 +0000"
@@ -8252,6 +8422,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-06-12 20:12:55 +0000"
     },
     "done": true
   },
@@ -8270,6 +8446,18 @@
   "mcdw:recipes/daggers/dagger_void_touched_blade": {
     "criteria": {
       "has_amethyst_shard": "2025-06-12 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
     },
     "done": true
   },
@@ -8330,6 +8518,12 @@
   "betterend:recipes/misc/sweeping_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
     },
     "done": true
   },
@@ -8420,6 +8614,12 @@
   "mcda:recipes/base_armors/snow_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-06-12 19:27:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-12 20:08:10 +0000"
     },
     "done": true
   },
