@@ -7888,6 +7888,12 @@
     },
     "done": true
   },
+  "beachparty:recipes/sand_bucket_block": {
+    "criteria": {
+      "has_wooden_shovel": "2025-06-12 22:39:58 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/beach_towel": {
     "criteria": {
       "has_white_wool": "2025-06-12 19:28:02 +0000"
@@ -9025,6 +9031,12 @@
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_shovel": {
+    "criteria": {
+      "has_wooden_shovel": "2025-06-12 22:39:58 +0000"
     },
     "done": true
   },
