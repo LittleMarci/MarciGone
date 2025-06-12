@@ -2370,3 +2370,5 @@ java.util.ConcurrentModificationException: null
 [21:49:24] [Server thread/INFO]: remove player wand
 [21:49:24] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
 [21:59:58] [Server thread/INFO]: Allend has made the advancement [Sowing the Future]
+[22:47:09] [Server thread/INFO]: Villager class_1646['Stacey'/32548, l='ServerLevel[world]', x=135.06, y=71.00, z=1349.47] died, message: 'Stacey hit the ground too hard'
+[22:47:09] [Server thread/INFO]: Named entity class_1646['Stacey'/32548, l='ServerLevel[world]', x=135.06, y=71.00, z=1349.47] died: Stacey was doomed to fall by Kobold Warrior
