@@ -3673,6 +3673,7 @@
       "minecraft:beach": "2025-06-11 19:17:19 +0000",
       "minecraft:river": "2025-06-11 19:18:26 +0000",
       "minecraft:swamp": "2025-06-12 19:27:42 +0000",
+      "minecraft:forest": "2025-06-12 19:48:33 +0000",
       "minecraft:ocean": "2025-06-11 19:20:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 19:28:17 +0000"
     },
@@ -4729,6 +4730,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-06-12 19:50:15 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/top_hat": {
     "criteria": {
       "has_white_wool": "2025-06-12 19:38:56 +0000"
@@ -4780,6 +4787,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-06-12 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-06-12 19:49:17 +0000"
     },
     "done": true
   },
@@ -4921,6 +4934,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2025-06-12 19:50:07 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_burst": {
     "criteria": {
       "has_string": "2025-06-12 19:35:26 +0000"
@@ -5026,6 +5045,12 @@
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-06-12 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-06-12 19:49:17 +0000"
     },
     "done": true
   },
@@ -5173,6 +5198,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-12 19:49:17 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_boots": {
     "criteria": {
       "has_leather_boots": "2025-06-12 19:30:33 +0000"
@@ -5188,6 +5219,12 @@
   "mcda:recipes/unique_armors/archers_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-06-12 19:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-12 19:49:17 +0000"
     },
     "done": true
   },
@@ -5314,6 +5351,12 @@
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-12 19:49:17 +0000"
     },
     "done": true
   },
@@ -5470,6 +5513,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-06-12 19:34:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-06-12 19:49:17 +0000"
     },
     "done": true
   },
@@ -5890,6 +5939,18 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2025-06-12 19:45:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-06-12 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-06-12 19:50:15 +0000"
     },
     "done": true
   },
