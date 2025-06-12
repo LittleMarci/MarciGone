@@ -4443,6 +4443,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/guards_armor_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-06-12 19:30:30 +0000"
@@ -4467,9 +4473,21 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -4494,6 +4512,12 @@
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_white_sheet": "2025-06-12 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -4707,6 +4731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_trickbow": {
     "criteria": {
       "has_string": "2025-06-12 19:35:26 +0000"
@@ -4809,6 +4839,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-06-12 19:26:12 +0000"
@@ -4833,15 +4869,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
       "has_oak_cupboard": "2025-06-12 19:45:03 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/guards_armor_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-06-12 19:30:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -4899,6 +4953,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-06-12 19:34:39 +0000"
@@ -4917,15 +4977,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_container": {
     "criteria": {
       "has_base_block": "2025-06-12 19:41:59 +0000"
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -4938,6 +5016,12 @@
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-06-12 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -4959,6 +5043,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
     "criteria": {
       "has_log": "2025-06-12 20:05:21 +0000"
@@ -4974,6 +5064,18 @@
   "mcda:recipes/base_armors/goat_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-06-12 19:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -5073,6 +5175,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-06-12 19:38:56 +0000"
@@ -5148,6 +5256,12 @@
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-06-12 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -5298,6 +5412,12 @@
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -5475,6 +5595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:13 +0000"
@@ -5535,9 +5661,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2025-06-12 19:45:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -5604,6 +5742,12 @@
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -5826,6 +5970,12 @@
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2025-06-12 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -6087,6 +6237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:13 +0000"
@@ -6120,6 +6276,18 @@
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-06-12 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -6177,9 +6345,27 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-06-12 19:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },
@@ -6234,6 +6420,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-12 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-06-12 20:24:34 +0000"
     },
     "done": true
   },

@@ -2340,3 +2340,5 @@ java.util.ConcurrentModificationException: null
 [20:14:11] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 196, 64, 1384, minecraft:overworld
 [20:14:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
 [20:14:19] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 192, 65, 1359, minecraft:overworld
+[20:29:02] [Server thread/INFO]: Villager class_1646['Stephaine'/17855, l='ServerLevel[world]', x=129.70, y=66.42, z=1329.60] died, message: 'Stephaine was slain by Zombie'
+[20:29:02] [Server thread/INFO]: Named entity class_1646['Stephaine'/17855, l='ServerLevel[world]', x=129.70, y=66.42, z=1329.60] died: Stephaine was slain by Zombie

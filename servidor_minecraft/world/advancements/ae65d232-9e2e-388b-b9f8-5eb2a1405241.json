@@ -6577,6 +6577,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/birch_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-12 20:12:55 +0000"
@@ -6601,6 +6607,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 19:59:16 +0000"
@@ -6622,6 +6634,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -6679,6 +6697,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-06-12 19:24:05 +0000"
@@ -6688,6 +6712,12 @@
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-06-12 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-06-12 20:20:38 +0000"
     },
     "done": true
   },
@@ -6811,6 +6841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-12 20:21:45 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/dragons_blood_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:51 +0000"
@@ -6862,6 +6898,12 @@
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-06-12 19:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -6937,6 +6979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-12 20:21:45 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-06-12 19:27:16 +0000"
@@ -6952,6 +7000,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-12 20:18:46 +0000"
     },
     "done": true
   },
@@ -6991,6 +7045,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
     "criteria": {
       "has_redstone": "2025-06-12 19:33:41 +0000"
@@ -7015,15 +7075,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "barteringstation:recipes/decorations/bartering_station": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 19:59:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -7081,6 +7159,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-06-12 19:33:41 +0000"
@@ -7111,6 +7195,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_container": {
     "criteria": {
       "has_base_block": "2025-06-12 19:41:55 +0000"
@@ -7120,6 +7210,18 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-12 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -7135,6 +7237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-12 20:21:45 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-06-12 19:41:55 +0000"
@@ -7147,9 +7255,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-06-12 19:33:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -7177,9 +7297,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/reinforced_mail_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-06-12 19:27:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -7285,6 +7417,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aqua_affinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
@@ -7306,6 +7444,12 @@
   "betterend:recipes/misc/fire_aspect_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-06-12 20:21:45 +0000"
     },
     "done": true
   },
@@ -7354,6 +7498,12 @@
   "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
     "criteria": {
       "has_book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -7516,6 +7666,12 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-06-12 19:35:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -7735,6 +7891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-06-12 19:25:25 +0000"
@@ -7834,6 +7996,18 @@
   "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
     "criteria": {
       "has_grass_variant": "2025-06-12 19:25:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -7957,6 +8131,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/reinforced_mail_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2025-06-12 19:27:12 +0000"
@@ -7996,6 +8176,12 @@
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-06-12 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-12 20:18:46 +0000"
     },
     "done": true
   },
@@ -8233,6 +8419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/battle_robe_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 19:59:16 +0000"
@@ -8467,6 +8659,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-12 20:18:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-06-12 20:03:33 +0000"
@@ -8515,6 +8713,12 @@
     },
     "done": true
   },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-06-12 20:21:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweeping_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
@@ -8524,6 +8728,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-12 20:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -8545,9 +8755,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/bane_of_arthropods_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -8593,6 +8815,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_barometer": {
     "criteria": {
       "has_copper_block": "2025-06-12 19:33:41 +0000"
@@ -8602,6 +8830,18 @@
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-12 19:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
@@ -8629,6 +8869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-12 20:18:27 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2025-06-12 19:59:16 +0000"
@@ -8638,6 +8884,12 @@
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-06-12 20:18:27 +0000"
     },
     "done": true
   },
