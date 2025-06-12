@@ -7419,6 +7419,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2025-06-12 22:00:30 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-06-12 19:33:41 +0000"
@@ -7704,6 +7710,12 @@
   "soulsweapons:recipes/misc/verglas": {
     "criteria": {
       "has_item": "2025-06-12 21:45:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/sowing_the_future": {
+    "criteria": {
+      "use_grape_seed": "2025-06-12 21:59:58 +0000"
     },
     "done": true
   },
