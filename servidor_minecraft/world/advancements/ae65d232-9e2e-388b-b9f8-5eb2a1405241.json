@@ -3333,6 +3333,7 @@
       "cooked_mutton": "2025-06-12 19:14:14 +0000",
       "apple": "2025-06-12 03:48:17 +0000",
       "bread": "2025-06-12 19:14:53 +0000",
+      "cookie": "2025-06-12 22:04:12 +0000",
       "rotten_flesh": "2025-06-12 21:36:08 +0000"
     },
     "done": false
@@ -7239,6 +7240,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2025-06-12 22:04:03 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/gauntlets/gauntlet_soul_fist": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 19:59:16 +0000"
@@ -7776,6 +7783,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-12 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cookie": {
+    "criteria": {
+      "has_cookie": "2025-06-12 22:04:10 +0000"
     },
     "done": true
   },
@@ -8751,6 +8764,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-06-12 22:04:42 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/cypress_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-12 20:12:55 +0000"
@@ -8976,6 +8995,12 @@
   "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2025-06-12 19:27:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-06-12 22:04:42 +0000"
     },
     "done": true
   },
@@ -9313,6 +9338,12 @@
   "oxidized:recipes/copper_pulsar": {
     "criteria": {
       "has_copper_block": "2025-06-12 19:33:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-06-12 22:04:42 +0000"
     },
     "done": true
   },
