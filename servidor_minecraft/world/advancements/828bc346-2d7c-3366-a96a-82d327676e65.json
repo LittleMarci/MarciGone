@@ -4946,6 +4946,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-06-12 20:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:13 +0000"
@@ -4991,6 +4997,18 @@
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-12 19:59:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-06-12 20:05:21 +0000"
     },
     "done": true
   },
@@ -5177,6 +5195,12 @@
   "mcdw:recipes/bows/bow_hunting_bow": {
     "criteria": {
       "has_leather": "2025-06-12 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-12 20:05:21 +0000"
     },
     "done": true
   },
@@ -5462,6 +5486,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/red_dye_from_red_lupine": {
+    "criteria": {
+      "has_red_lupine": "2025-06-12 20:03:01 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_boots": {
     "criteria": {
       "has_iron_boots": "2025-06-12 19:34:41 +0000"
@@ -5549,6 +5579,12 @@
   "mcdw:recipes/hammers/hammer_boneclub": {
     "criteria": {
       "has_bone": "2025-06-12 19:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-12 20:05:21 +0000"
     },
     "done": true
   },
@@ -5828,6 +5864,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-06-12 19:59:35 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_boots": {
     "criteria": {
       "has_leather_boots": "2025-06-12 19:30:33 +0000"
@@ -5951,6 +5993,12 @@
   "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
     "criteria": {
       "has_item": "2025-06-12 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-06-12 20:02:59 +0000"
     },
     "done": true
   },

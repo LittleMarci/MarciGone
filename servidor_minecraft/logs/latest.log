@@ -2289,3 +2289,5 @@ java.util.ConcurrentModificationException: null
 [19:48:38] [Worker-Main-29/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
 [19:53:42] [Server thread/INFO]: Allend has made the advancement [Best Friends Forever]
 [19:58:29] [Server thread/INFO]: Allend has made the advancement [Penteconter]
+[19:59:50] [Server thread/INFO]: sigan_viendo01 has made the advancement [Close Quarters]
+[20:07:58] [Server thread/INFO]: Allend has made the advancement [Gravedigger]
