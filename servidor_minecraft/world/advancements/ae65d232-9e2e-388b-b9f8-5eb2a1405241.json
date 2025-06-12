@@ -6598,6 +6598,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-06-12 23:50:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
     "criteria": {
       "has_ruby_gem": "2025-06-12 21:03:59 +0000"
@@ -6631,6 +6637,12 @@
   "techreborn:recipes/extractor/paper_from_writable_book": {
     "criteria": {
       "has_writable_book": "2025-06-12 20:03:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-06-12 23:50:49 +0000"
     },
     "done": true
   },
