@@ -8974,6 +8974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-13 00:04:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/red_dye_from_red_lupine": {
     "criteria": {
       "has_red_lupine": "2025-06-12 21:15:28 +0000"
@@ -9442,6 +9448,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-06-13 00:04:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
     "criteria": {
       "has_ruby_gem": "2025-06-12 21:03:59 +0000"
@@ -9601,6 +9613,12 @@
   "betterend:recipes/misc/luck_of_sea_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:bow_way": {
+    "criteria": {
+      "items": "2025-06-13 00:04:32 +0000"
     },
     "done": true
   },
@@ -9835,6 +9853,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-12 22:51:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-06-13 00:04:32 +0000"
     },
     "done": true
   },
