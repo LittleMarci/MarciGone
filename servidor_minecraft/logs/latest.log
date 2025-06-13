@@ -9,3 +9,7 @@
 [00:17:49] [Server thread/INFO]: Named entity class_1646['Freddy'/84258, l='ServerLevel[world]', x=133.30, y=74.00, z=1343.70] died: Freddy was slain by Johnson
 [00:23:42] [Server thread/INFO]: Allend has made the advancement [Take Aim]
 [00:24:36] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[00:36:42] [Server thread/INFO]: Allend has made the advancement [Chest Slayer]
+[00:36:44] [Server thread/INFO]: Allend has made the advancement [Amateur Archaeologist]
+[00:38:12] [Worker-Main-203/WARN]: Tried to access a block entity before it was created. class_2338{x=385, y=-21, z=1758}
+[00:39:56] [Server thread/INFO]: Allend has made the advancement [Diamonds!]
