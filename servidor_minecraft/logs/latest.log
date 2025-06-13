@@ -7,3 +7,5 @@
 [00:17:33] [Server thread/INFO]: Named entity class_1646['Johnson'/83832, l='ServerLevel[world]', x=137.36, y=68.00, z=1337.30] died: Johnson was slain by Zombie
 [00:17:49] [Server thread/INFO]: Villager class_1646['Freddy'/84258, l='ServerLevel[world]', x=133.30, y=74.00, z=1343.70] died, message: 'Freddy was slain by Johnson'
 [00:17:49] [Server thread/INFO]: Named entity class_1646['Freddy'/84258, l='ServerLevel[world]', x=133.30, y=74.00, z=1343.70] died: Freddy was slain by Johnson
+[00:23:42] [Server thread/INFO]: Allend has made the advancement [Take Aim]
+[00:24:36] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
