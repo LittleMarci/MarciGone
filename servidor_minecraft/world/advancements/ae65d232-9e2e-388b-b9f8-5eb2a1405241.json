@@ -8026,6 +8026,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/oak_pressure_plate_from_slab": {
+    "criteria": {
+      "has_oak_slab": "2025-06-13 00:17:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-12 22:51:31 +0000"
@@ -9649,6 +9655,12 @@
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-06-13 00:17:15 +0000"
     },
     "done": true
   },

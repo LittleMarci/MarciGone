@@ -3,3 +3,7 @@
 [00:01:09] [Server thread/INFO]: Named entity class_1646['Eugenio'/84303, l='ServerLevel[world]', x=162.45, y=62.52, z=1250.61] died: Eugenio was slain by Zombie
 [00:04:32] [Server thread/INFO]: Allend has made the advancement [Archer´s Paths]
 [00:05:05] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=467, y=-18, z=1181}
+[00:17:33] [Server thread/INFO]: Villager class_1646['Johnson'/83832, l='ServerLevel[world]', x=137.36, y=68.00, z=1337.30] died, message: 'Johnson was slain by Zombie'
+[00:17:33] [Server thread/INFO]: Named entity class_1646['Johnson'/83832, l='ServerLevel[world]', x=137.36, y=68.00, z=1337.30] died: Johnson was slain by Zombie
+[00:17:49] [Server thread/INFO]: Villager class_1646['Freddy'/84258, l='ServerLevel[world]', x=133.30, y=74.00, z=1343.70] died, message: 'Freddy was slain by Johnson'
+[00:17:49] [Server thread/INFO]: Named entity class_1646['Freddy'/84258, l='ServerLevel[world]', x=133.30, y=74.00, z=1343.70] died: Freddy was slain by Johnson
