@@ -20,3 +20,8 @@
 [01:08:17] [Server thread/INFO]: Allend has made the advancement [The Secrets of Enchanting]
 [01:12:37] [Server thread/INFO]: Villager class_1646['Joye'/99363, l='ServerLevel[world]', x=140.96, y=71.00, z=1346.56] died, message: 'Joye was slain by Kobold Warrior'
 [01:12:37] [Server thread/INFO]: Named entity class_1646['Joye'/99363, l='ServerLevel[world]', x=140.96, y=71.00, z=1346.56] died: Joye was slain by Kobold Warrior
+[01:12:43] [Server thread/INFO]: Allend was slain by Kobold Warrior
+[01:12:43] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_13.06.2025-01.12.43.dat
+[01:12:45] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[01:13:05] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 141, 71, 1341, minecraft:overworld
+[01:15:22] [Server thread/INFO]: Allend has made the advancement [The Parrots and the Bats]
