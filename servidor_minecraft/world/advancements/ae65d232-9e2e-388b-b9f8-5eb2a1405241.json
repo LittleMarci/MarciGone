@@ -519,6 +519,7 @@
       "ancient_delta": "2025-06-13 00:30:19 +0000",
       "grassy_beach": "2025-06-12 03:53:10 +0000",
       "ochard": "2025-06-13 00:26:52 +0000",
+      "flower_fields": "2025-06-13 00:46:08 +0000",
       "temperate_grove": "2025-06-11 17:47:07 +0000"
     },
     "done": false
@@ -529,6 +530,7 @@
       "bayou": "2025-06-11 16:09:51 +0000",
       "grassy_beach": "2025-06-12 03:53:10 +0000",
       "ochard": "2025-06-13 00:26:52 +0000",
+      "flower_fields": "2025-06-13 00:46:08 +0000",
       "temperate_grove": "2025-06-11 17:47:07 +0000"
     },
     "done": false
@@ -2740,7 +2742,8 @@
       "minecraft:husk": "2025-06-12 04:06:09 +0000",
       "minecraft:enderman": "2025-06-12 04:00:13 +0000",
       "minecraft:zombie": "2025-06-11 17:49:26 +0000",
-      "minecraft:drowned": "2025-06-12 21:27:50 +0000"
+      "minecraft:drowned": "2025-06-12 21:27:50 +0000",
+      "minecraft:zombie_villager": "2025-06-13 00:49:48 +0000"
     },
     "done": false
   },
@@ -6908,6 +6911,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/featherlight": {
     "criteria": {
       "has_item": "2025-06-12 19:25:25 +0000"
@@ -7040,6 +7049,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-12 23:22:53 +0000"
@@ -7055,6 +7070,18 @@
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_diamond": "2025-06-13 00:39:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
     },
     "done": true
   },
@@ -7286,6 +7313,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/reinforced_mail_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-06-12 19:27:09 +0000"
@@ -7493,6 +7526,12 @@
   "techreborn:recipes/centrifuge/spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-12 20:18:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-06-13 00:47:36 +0000"
     },
     "done": true
   },
@@ -8462,6 +8501,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/polished_calcite": {
     "criteria": {
       "has_item": "2025-06-13 00:30:22 +0000"
@@ -8519,6 +8564,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-13 00:30:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
     },
     "done": true
   },
@@ -8687,6 +8738,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_wither": {
     "criteria": {
       "has_core_specification_item": "2025-06-12 20:35:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_galena_ores": "2025-06-13 00:46:14 +0000"
     },
     "done": true
   },
@@ -9248,6 +9305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-13 00:47:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
     "criteria": {
       "has_sapphire_gem": "2025-06-12 21:01:49 +0000"
@@ -9494,6 +9557,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-06-12 19:36:46 +0000"
@@ -9503,6 +9572,12 @@
   "botania:recipes/decorations/brewery": {
     "criteria": {
       "has_alt_item": "2025-06-12 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
     },
     "done": true
   },
@@ -9533,6 +9608,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
     "criteria": {
       "has_plank": "2025-06-12 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
     },
     "done": true
   },
@@ -9590,6 +9671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-13 00:47:36 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2025-06-12 21:01:18 +0000"
@@ -9635,6 +9722,12 @@
   "soulsweapons:recipes/combat/sting": {
     "criteria": {
       "has_item": "2025-06-12 21:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-06-13 00:45:07 +0000"
     },
     "done": true
   },
@@ -10424,6 +10517,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/fallen_icon_disc": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-06-13 00:39:56 +0000"
@@ -10916,6 +11015,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-13 00:30:22 +0000"
@@ -11072,6 +11177,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/draugr_boss_disc": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-06-12 19:27:09 +0000"
@@ -11105,6 +11216,12 @@
   "promenade:recipes/crafting/palm/chest_boat": {
     "criteria": {
       "has_boat": "2025-06-12 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
     },
     "done": true
   },
@@ -11201,9 +11318,10 @@
   "techreborn:root": {
     "criteria": {
       "crit_2": "2025-06-12 21:01:49 +0000",
-      "crit_1": "2025-06-12 20:59:25 +0000"
+      "crit_1": "2025-06-12 20:59:25 +0000",
+      "crit_0": "2025-06-13 00:46:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
     "criteria": {
@@ -11286,6 +11404,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-12 23:22:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "moonstone": "2025-06-13 00:47:20 +0000"
     },
     "done": true
   },
@@ -11472,6 +11596,12 @@
   "betterend:recipes/misc/bane_of_arthropods_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-12 20:03:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-13 00:47:20 +0000"
     },
     "done": true
   },
